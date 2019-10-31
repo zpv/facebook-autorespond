@@ -1,5 +1,5 @@
 {
-  "name": "facebook-autorespond",
+  "name": "messenger-autorespond",
   "version": "1.0.0",
   "description": "",
   "main": "src/app.js",
@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zpv/facebook-autorespond.git"
+    "url": "git+https://github.com/zpv/messenger-autorespond.git"
   },
   "author": "zpv",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zpv/facebook-autorespond/issues"
+    "url": "https://github.com/zpv/messenger-autorespond/issues"
   },
-  "homepage": "https://github.com/zpv/facebook-autorespond#readme"
+  "homepage": "https://github.com/zpv/messenger-autorespond#readme"
 }
